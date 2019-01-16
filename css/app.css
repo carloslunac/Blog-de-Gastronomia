@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+body{
+  background-color: rgb(25,210,9);
+}
+header{
+  padding-top: 20px;
+}
+.cabeceraizquierda{
+    background-color:#0b7a01;
+    color:white;
+
+}
+.cabeceraderecha{
+    background-color:	#12b803;
+}
+.titulo{
+  font-family: Tangerine;
+  font-size: 40px;
+  text-shadow: 2px 2px 4px black;
+}
+.frase{
+  font-family: Tangerine;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px black;
+}
+
+.columnaizquierda{
+  background-color:#0d9401;
+}
+
+.columnaderecha{
+  background-color:	#0b7a01;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.comentario{
+  background-color:white;
+  color:black;
+  padding: 0px 0px 0px 0px;
+  margin: 6px 0px 6px 0px;
+}
+
+.claseparacolores a{
+color: white;
+
+}
+.claseparacolores a:hover{
+color:black;
+}
